@@ -18,10 +18,10 @@
 
 <div>
 
-  # Bachelor Degree in Computers & Information, Menoufia University.
-  # Strong command in software engineering & programming principles across different platforms
-  # Interest and knowledge of designing interfaces, testing, and debugging codes
-  # Knowledge of Languages: PHP, Javascript, oop, Laravel, Vue
+   Bachelor Degree in Computers & Information, Menoufia University.
+   Strong command in software engineering & programming principles across different platforms
+   Interest and knowledge of designing interfaces, testing, and debugging codes
+   Knowledge of Languages: PHP, Javascript, oop, Laravel, Vue
 
 </div>
 
