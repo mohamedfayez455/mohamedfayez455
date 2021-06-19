@@ -18,17 +18,16 @@
 
 <div>
 
-   Bachelor Degree in Computers & Information, Menoufia University. <br>
-   Strong command in software engineering & programming principles across different platforms <br>
-   Interest and knowledge of designing interfaces, testing, and debugging codes <br>
-   Knowledge of Languages: PHP, Javascript, oop, Laravel, Vue <br>
+- 🎓 &nbsp; Bachelor Degree in Computers & Information, Menoufia University. <br>
+- 🎓 &nbsp; Strong command in software engineering & programming principles across different platforms <br>
+- 🎓 &nbsp; Interest and knowledge of designing interfaces, testing, and debugging codes <br>
+- 🎓 &nbsp; Knowledge of Languages: PHP, Javascript, oop, Laravel, Vue <br>
 
 </div>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 - 🔥 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science.
 - 💼 &nbsp; Working as a backend web developer.
 
 
